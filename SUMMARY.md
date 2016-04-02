@@ -19,5 +19,5 @@
 * [Chapter 15](chapter15.md)
 * [Chapter 16](chapter16.md)
 * [Chapter 17](chapter17.md)
-* [Acknowledgments](Acknowledgments.md)
+* [Acknowledgments](acknowledgments.md)
 
