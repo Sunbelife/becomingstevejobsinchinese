@@ -1,10 +1,10 @@
 # Becoming-Steve-jobs-in-chinese {#becoming-steve-jobs-in-chinese}
 
-Copyright © 2015 by Brent Schlender and Rick Tetzeli
+Copyright © 2015 by Brent Schlender 和 Rick Tetzeli
 
 All rights reserved.
 
-Published in the United States by Crown Business, an imprint of the Crown Publishing Group, a division of Penguin Random House LLC, New York.
+Published in the United States by Crown 商业, an imprint of the Crown Publishing Group, a division of Penguin Random House LLC, New York.
 
 www.crownpublishing.com
 
