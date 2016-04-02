@@ -1,2 +1,11 @@
 # Chapter 17
 
+ “Just Tell Them I’m Being an Asshole”
+
+This final chapter also covers a lot of ground, from my own interactions with Jobs over the last few years of his life, to the unusual circumstances surrounding his liver transplant in 2009, to the public criticism of working conditions at Apple’s contract manufacturer in China, to accusations of antitrust violations in its collusion with book publishers over electronic book prices and with other Silicon Valley employers to reduce “poaching” of key employees. We also describe how the iPad came to be Apple’s fastest-selling new product ever. The chapter’s primary intent, however, is to put in perspective the evolution of Steve Jobs from a reckless young entrepreneur into a seasoned builder of new consumer technologies and the businesses infrastructures required to deliver and support them. For this we draw largely upon the comments and experiences of many who knew him best.
+
+Descriptions of the private burial service were provided to us by several individuals who were present but did not want their recollections attributed to them. The transcript of Laurene Powell Jobs’s tribute given at the public memorial for Steve Jobs on October 17, 2011, is used with her permission.
+
+Aside from snippets from my own encounters with Jobs, most of the direct quotations in this chapter were drawn from interviews with Tim Cook on April 30, 2014; Bob Iger on May 14, 2014; Eddy Cue on April 29, 2014; Lee Clow on January 20, 2014; Bill Gates on June 15, 2012; Laurene Powell Jobs on April 30, 2014; John Lasseter on May 8, 2014; Jim Collins on April 15, 2014; and Mike Slade on July 23, 2012.
+
+We relied on the Cupertino City Council video archive to obtain exact quotes from Jobs’s presentation of plans for a new Apple headquarters, June 7, 2011, http://www.cupertino.org/index.aspx?recordid=463&page=26; and upon Apple’s online video archives to obtain the comments by Bill Campbell and Jony Ive speaking at the memorial for Jobs at Apple Inc. headquarters, October 20, 2011, http://events.apple.com.edgesuite.net/10oiuhfvojb23/event/index.html.
