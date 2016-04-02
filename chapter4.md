@@ -1,7 +1,5 @@
 # Chapter 4
 
-Chapter 4
-
 
 What’s Next?
 
