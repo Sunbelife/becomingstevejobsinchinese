@@ -1,4 +1,5 @@
 # Prologue
+
 “You’re new here, aren’t you?” Those were his first words to me. (His last, twenty-five years later, would be “I’m sorry.”) Already he had turned the tables on me. After all, I was the reporter. The one who was supposed to be asking the questions.
 
 I had been warned about the unique challenges of interviewing Steve Jobs. The night before, over beers, my new colleagues at the San Francisco bureau of the Wall Street Journal had told me to bring a flak jacket to this first meeting. One of them said, only half jokingly, that interviewing Jobs was often more combat than questioning. It was April 1986, and Jobs was already a Journal legend. Bureau lore had it that he had dressed down another Journal reporter by posing this straightforward question: “Do you understand anything at all, anything at all about what we’re discussing?”
