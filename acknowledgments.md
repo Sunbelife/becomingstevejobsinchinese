@@ -1,2 +1,24 @@
 # Acknowledgments
 
+
+
+
+Thank you to Kris Dahl, our agent, who has been steady, wise, and inspiring as our early idea blossomed into this book. Our editor at Crown, Roger Scholl, championed this project from the get-go, offering unflagging support at every turn. We couldn’t have asked for a better guide through the editorial process. John Huey initiated our working relationship, which led to deep friendship and this collaboration. Cathy Cook has been our sage, skeptical counselor and friend in Silicon Valley for years. Jenny Lyss delivered the title over a dinner that reflected the warmth and generosity she brings to everything. There’s a long list of folks who have helped us along the way, but we especially want to thank Larry Brilliant, Annie Chia, Larry Cohen, Katie Cotton, Mia Diehl, Steve Dowling, Caroline Eisenmann, Heather Feng, Sadie Ferguson, Sarah Filippi, Veronica Garcia, Celine Grouard, Bill Joy, Ted Keller, George Lange, Kristen McCoy, Regis McKenna, Gretchen Menn, Doug Menuez, Michelle Moretta, Zenia Mucha, Terri Murphy, Karen Paik, Emily Philpott, Derek Reed, Abby Royle, Wendy Tanzillo, Allison Thomas, Fred Vogelstein, and Tom Waldrop.
+
+Without naming them individually, we also would like to thank the many people close to Steve Jobs—family members, longtime friends, work colleagues, mentors, rivals, and competitors—who chose to trust us with their personal memories, impressions, and insights. The source notes give a complete listing of those who provided on-the-record interviews. We are grateful for the generosity of spirit they showed by sharing their reminiscences and feelings despite their understandable reluctance.
+
+—BS and RT
+
+
+I’d like to thank my family. Lorna, my wife of three decades, who has patiently tolerated the unpredictable hours and mood swings and sudden transoceanic moves that sometimes go with being married to a journalist; and my two daughters, Greta and Fernanda, who both have cameo roles in our story and who, like their mother, encouraged me to put my own traumatic illness behind me, and just do it. I also must thank my late mother, Charlotte, an eighth-grade English teacher who taught me the importance of learning the Greek and Latin roots of most words, and to realize, too, that there is almost always a better word—unless there isn’t. And I want to especially thank my father, Harold, a lifelong homebuilder and craftsman who turned ninety the month this book was published. He taught me very early that your mistakes always cost you in three ways: you waste effort and materials; you then have to dismantle what you messed up; and after that you have to do it all over again to get it right. That’s a good rule of thumb to keep in mind for just about any endeavor. By example, my father also showed me that it is never too late in life to take on your biggest challenge. His was the restoration of a magnificent, historic opera house in my hometown of McPherson, Kansas, that reopened, thanks in large part to his own sweat and muscle when he was eighty-five. And finally, I’d like to give a special shout-out to one of my oldest and dearest friends, Rodney Pearlman, a genuine polymath whose valuable and cogent suggestions for the manuscript were of immense help late in the writing process.
+
+—BS
+
+
+Bob Safian, editor of Fast Company, encouraged the project and gave me room to complete something that took far more time than either of us anticipated. The world needs more leaders like Bob—that’ll embarrass him, but it’s true. David Lidsky was an invaluable reader of our first draft. I am truly grateful to David, Lori Hoffman, and Jill Bernstein for leading the print team at Fast Company while I was on book leave. Frank Davis and Nancy Blecher Davis helped at critical moments along the way; they are the greatest in-laws around. Christine Pierre has been a model for the entire family for years now, and has helped in more ways than she would ever acknowledge. My brothers, Bill and Chris, have been steady confidants, as have Adam Bluestein, Nicole Gueron, Carter Strickland, and Steve Tager. My children, Jonah, Tal, and Anya, have been occasionally exasperated but always curious and loving participants in the process of “that book.” They add meaning to everything and are a welcome reminder of both the value and the limits of this project. Finally, Mari, my wife of seventeen years, has been our most rigorous and tireless reader; her heavily marked-up manuscript pages informed every draft. She has pushed us to be as clear, ambitious, and thorough as possible. More important, she is my best friend and everything anyone could ever hope for in a partner. Who knew, Mari, that walking you home sixty-five blocks that first night would transform my life? My gratitude for any good things that have come my way in life begins with meeting and marrying you.
+
+—RT
+
+
+
+
